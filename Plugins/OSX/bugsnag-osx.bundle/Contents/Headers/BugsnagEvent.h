@@ -112,7 +112,6 @@ BUGSNAG_EXTERN
  */
 @property (strong, nullable, nonatomic) id originalError;
 
-
 // =============================================================================
 // MARK: - User
 // =============================================================================
@@ -132,5 +131,7 @@ BUGSNAG_EXTERN
 - (void)setUser:(NSString *_Nullable)userId
       withEmail:(NSString *_Nullable)email
         andName:(NSString *_Nullable)name;
+
+- (void) setCorrelationTraceId:(NSString *_Nonnull)traceId spanId:(NSString *_Nonnull)spanId;
 
 @end
