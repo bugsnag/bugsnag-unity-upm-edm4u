@@ -5,7 +5,7 @@ This is the UPM package for the BugSnag SDK for Unity.
 
 Install it via `UPM`:
 ```
-https://github.com/bugsnag/bugsnag-unity-upm-edm4u.git#v8.7.0
+https://github.com/bugsnag/bugsnag-unity-upm-edm4u.git#v8.7.1
 ```
 
 ## Source code
