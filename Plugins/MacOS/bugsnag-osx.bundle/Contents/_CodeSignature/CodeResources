@@ -21,11 +21,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9lPEfGwBKr0b262yvqVwsPALSRA=
+			G+anZLLcP9cGuOW7K8h0ra1304E=
 			</data>
 			<key>hash2</key>
 			<data>
-			s6XC7aYFoqfOAVzFN0qcCh0Uofh+FTMoPihQ2BOQ8WI=
+			uateXCEgQNBOOzwkxOyfluEToYv9OUIOZeNQlOMa+Vk=
 			</data>
 		</dict>
 		<key>Headers/BugsnagApp.h</key>
@@ -65,11 +65,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MZDcWV+1qwuOZXyXVw8t8uTOFFY=
+			1hlRcUoeBEGtqepa6695gJLpdkk=
 			</data>
 			<key>hash2</key>
 			<data>
-			tnJwIXUc/xrNfUpPqzsRDANquevtEsKFpWXNnclas0g=
+			TYc4HVjeBSTF2foM64iwh0KdLaXww9Wz/MLXjFrEsbQ=
 			</data>
 		</dict>
 		<key>Headers/BugsnagConfiguration.h</key>
@@ -120,11 +120,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v7EmADnIvglJE2GaEW+3JFjougc=
+			7QIeVFq3+Rl5fQtGFxWwvO/pczk=
 			</data>
 			<key>hash2</key>
 			<data>
-			fVdoxkO2WPW5ChCqM+ZSlRhu4Z1vCFJ6FMazlCPPZLY=
+			GktIj6HCWKLiG40dFfSgAFBoj6k7UbuL230wEX63dxQ=
 			</data>
 		</dict>
 		<key>Headers/BugsnagError.h</key>
@@ -153,11 +153,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CN6WjDkaLgkxlsfjstZWcRVb2XE=
+			bqUKLN7zrW+C+n8ShwJtj9JloXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			qzcI2b4IMFmuP1s6S/8VlElQ6DSAjLJ8e+q5EWH5Sic=
+			gzBjSSScYt5TDOebQFL3Su0yXWXlSKOO4DFLC8w114g=
 			</data>
 		</dict>
 		<key>Headers/BugsnagFeatureFlag.h</key>
